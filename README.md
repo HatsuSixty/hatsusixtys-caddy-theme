@@ -1,6 +1,6 @@
 # Hatsu Sixty's Caddy Theme
 
-Caddy browser theme based on [Caddy minimal browse template](https://github.com/adriel/Caddy-Server-minimal-browse-template). **Made for my own personal use**.
+Caddy browser theme based on [Caddy minimal browser template](https://github.com/adriel/Caddy-Server-minimal-browse-template). **Made for my own personal use**.
 
 ## Image license
 
